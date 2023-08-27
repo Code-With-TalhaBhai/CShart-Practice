@@ -1,0 +1,15 @@
+/home/talha/Code_Apps/C#_with_design_patterns/design_patterns/bin/Debug/net7.0/design_patterns
+/home/talha/Code_Apps/C#_with_design_patterns/design_patterns/bin/Debug/net7.0/design_patterns.deps.json
+/home/talha/Code_Apps/C#_with_design_patterns/design_patterns/bin/Debug/net7.0/design_patterns.runtimeconfig.json
+/home/talha/Code_Apps/C#_with_design_patterns/design_patterns/bin/Debug/net7.0/design_patterns.dll
+/home/talha/Code_Apps/C#_with_design_patterns/design_patterns/bin/Debug/net7.0/design_patterns.pdb
+/home/talha/Code_Apps/C#_with_design_patterns/design_patterns/obj/Debug/net7.0/design_patterns.csproj.AssemblyReference.cache
+/home/talha/Code_Apps/C#_with_design_patterns/design_patterns/obj/Debug/net7.0/design_patterns.GeneratedMSBuildEditorConfig.editorconfig
+/home/talha/Code_Apps/C#_with_design_patterns/design_patterns/obj/Debug/net7.0/design_patterns.AssemblyInfoInputs.cache
+/home/talha/Code_Apps/C#_with_design_patterns/design_patterns/obj/Debug/net7.0/design_patterns.AssemblyInfo.cs
+/home/talha/Code_Apps/C#_with_design_patterns/design_patterns/obj/Debug/net7.0/design_patterns.csproj.CoreCompileInputs.cache
+/home/talha/Code_Apps/C#_with_design_patterns/design_patterns/obj/Debug/net7.0/design_patterns.dll
+/home/talha/Code_Apps/C#_with_design_patterns/design_patterns/obj/Debug/net7.0/refint/design_patterns.dll
+/home/talha/Code_Apps/C#_with_design_patterns/design_patterns/obj/Debug/net7.0/design_patterns.pdb
+/home/talha/Code_Apps/C#_with_design_patterns/design_patterns/obj/Debug/net7.0/design_patterns.genruntimeconfig.cache
+/home/talha/Code_Apps/C#_with_design_patterns/design_patterns/obj/Debug/net7.0/ref/design_patterns.dll
